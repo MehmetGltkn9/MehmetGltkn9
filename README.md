@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hello World!!👋, I'm Mehmet</p>
+<p align="center">Hello World!!👋, I'm Mehmet</p>
 
 ###
 

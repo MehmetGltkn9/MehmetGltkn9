@@ -45,8 +45,4 @@
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/MehmetGltkn9/MehmetGltkn9/output/snake.svg" alt="Snake animation" />
-
-###

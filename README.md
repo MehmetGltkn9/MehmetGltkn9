@@ -1,4 +1,5 @@
 <div align="center">
+  <p align="center">Profile View Counter</p>
   <img src="https://profile-counter.glitch.me/MehmetGltkn9/count.svg?"  />
 </div>
 
